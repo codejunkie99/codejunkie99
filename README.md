@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/robots-write-bugs.gif" width="960" alt="Animated terminal: i dont like to code; so i taught the robots; now i review their bugs. A little robot waves.">
+</p>
+
+<p align="center">
   <a href="https://x.com/Av1dlive"><img src="https://avatars.githubusercontent.com/u/52658655?v=4" width="112" height="112" alt="Avidlive logo"></a>
 </p>
 
