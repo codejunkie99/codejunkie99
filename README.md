@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/agent-garden-banner.png" width="100%" alt="A friendly robot tending a glowing garden of connected ideas under a starry sky">
+</p>
+
+<p align="center">
   <a href="https://x.com/Av1dlive"><img src="https://avatars.githubusercontent.com/u/52658655?v=4" width="112" height="112" alt="Avidlive logo"></a>
 </p>
 
