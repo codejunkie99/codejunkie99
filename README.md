@@ -8,7 +8,7 @@
 
 <h1 align="center">Avidlive</h1>
 
-<p align="center"><strong>Growing a garden of tools for agents with very short memories. 🌱🤖</strong></p>
+<p align="center"><strong>I build tools that help AI agents remember, coordinate, and ship.</strong></p>
 
 <p align="center">
   Local-first software · Agent infrastructure · Creative tools · Hardware
